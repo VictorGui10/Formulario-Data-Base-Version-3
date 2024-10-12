@@ -1,0 +1,17 @@
+body {
+    font-family: Arial;
+    background-image: linear-gradient(45deg, rgb(66, 147, 150), rgb(177, 166, 159));
+
+
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border-bottom: 1px solid #666;
+
+}
+
+.table-bg{
+    background: rgb(0,0,0,0.3);
+}

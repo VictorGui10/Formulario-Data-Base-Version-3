@@ -1,0 +1,11 @@
+Inserir uma ocultação na senha (INDEX.PHP e RESULT.PHP);
+
+Inserir novas funcionalidades nos campos (AÇÕES 1,AÇÕES 2)
+
+Inserir aviso de "Não encontrado" quando acessar o sistema e errar a senha;
+
+Inserir escolhas de tema (MODO DARK, MODO LIGHT).
+
+Inserir nova chamada de "Welcome $usuario e não $Email;
+
+O sistema identificar automaticamente o periodo de comissao
